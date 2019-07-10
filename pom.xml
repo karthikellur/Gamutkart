@@ -10,7 +10,7 @@
 		<repository>
 			<id>deployment</id>
 			<name>internal Release</name>
-			<url></url>
+			<url>http://18.221.234.105:8081/repository/GamutKart/</url>
 		</repository>
 	</distributionManagement>
 		
