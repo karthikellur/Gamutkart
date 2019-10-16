@@ -9,7 +9,7 @@ pipeline {
 		}
 		stage('Build') {
 	        steps {
-				sh '/home/tomcat/Distros/apache-maven-3.6.0/bin/mvn install'
+				sh '/usr/share/maven/bin/mvn install'
 	        }
 		}
 		stage('Deployment') {
