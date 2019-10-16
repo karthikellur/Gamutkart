@@ -2,8 +2,8 @@
 
 	<modelVersion>4.0.0</modelVersion>
 
-	<groupId>com.gamutgurus</groupId>
-	<artifactId>gamutkart</artifactId>
+	<groupId>com.karthik</groupId>
+	<artifactId>karthik</artifactId>
 	<packaging>war</packaging>
 	<version>1.1-SNAPSHOT</version>
 	<distributionManagement>
@@ -33,7 +33,7 @@
 	</dependencies>
 
 	<build>
-		<finalName>gamutkart</finalName>
+		<finalName>karthik</finalName>
 	</build>
 	
 </project>
